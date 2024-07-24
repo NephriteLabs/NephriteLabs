@@ -9,7 +9,7 @@ Right now, I've been doing a lot of Python coding and have worked on a bunch of 
 - seaborn
 - numpy
 
-I've also done some API requests directly in code using JSON, transformed the data, and exported it to work on in Excel. 
+I've also done some API requests in JSON, transformed the data with Python, and exported it to work on in Excel. 
 Obviously, there's been quite a lot of SQL, Excel, and dashboarding tools such as Power BI and Tableau.
 
 I also have some experience with scikit-learn, and I'm tackling ML at the moment, thinking about going into PyTorch or TensorFlow, maybe both - we'll see. 
