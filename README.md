@@ -2,7 +2,7 @@
 
 My name is Denys, and I'm an aspiring data professional.  
 
-Right now, I've been doing a lot of Python coding and have worked on a bunch of projects with libraries, mostly:
+Recently, I've been doing a lot of coding and have worked on a bunch of projects with Python libraries, mostly:
 - pandas
 - matplotlib
 - seaborn
@@ -11,7 +11,7 @@ Right now, I've been doing a lot of Python coding and have worked on a bunch of 
 I've also done API requests in JSON, transformed the data with Python, and exported it for further analysis.
 Obviously, there's been quite a lot of SQL, Excel, and dashboarding tools such as Power BI and Tableau.
 
-I also have some experience with scikit-learn, and I'm tackling ML at the moment, thinking about going into PyTorch or TensorFlow, maybe both - we'll see. 
+I also have some experience with scikit-learn, and I'm tackling ML at the moment, thinking about going into PyTorch or TensorFlow, maybe both. 
 Big Data, NoSQL, ML - these are all areas I'm planning to develop myself in further.
 
 There's a lot to learn and I love it. Things don't seem to be too complicated, but there are certainly challenges. 
