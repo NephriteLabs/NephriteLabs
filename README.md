@@ -15,6 +15,6 @@ I also have some experience with scikit-learn, and I'm tackling ML at the moment
 Big Data, NoSQL, and ML are all areas I'm currently interested in and plan to further develop my skills in.
 
 There's a lot to learn and I love it. Things don't seem to be too complicated, but there are certainly challenges. 
-I do my best to put in as much effort and time as I can, and I'm sure I'll get there eventually 💪
+I do my best to put in as much effort and time as I can 💪
 
 Thanks for your time, and take care!
