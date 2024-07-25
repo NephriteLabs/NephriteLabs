@@ -2,7 +2,7 @@
 
 My name is Denys, and I'm an aspiring data professional.  
 
-Recently, I've been doing a lot of coding and have worked on a bunch of projects with Python libraries, mostly:
+Recently, I've been doing a lot of coding and have worked on projects with Python libraries, mostly:
 - pandas
 - matplotlib
 - seaborn
