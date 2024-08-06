@@ -19,4 +19,4 @@ Big Data, NoSQL, and ML are all areas I'm interested in and aim to develop my sk
 There's a lot to learn and I love it. Things don't seem to be too complicated, but there are certainly challenges. 
 I do my best to put in as much effort and time as I can.
 
-Thanks for your time, feel free to reach out or explore my page 🙂
+Thank you for your time, feel free to reach out or explore my page 🙂
