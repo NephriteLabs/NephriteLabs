@@ -8,7 +8,7 @@ Recently, I've been working on improving my coding skills through numerous proje
 - seaborn
 - numpy, scipy and other..
 
-Please see the repository with my portfolio of data projects [here](https://github.com/NephriteLabs/Portfolio).
+Here's my portfolio of data projects, you can find it [here](https://github.com/NephriteLabs/Portfolio).
 
 I've worked on data transformation and cleaning, imported datasets into code, learned to make API requests in Python, and how to work with different data formats, such as JSON and CSV. 
 Also, there's been quite a lot of SQL, advanced Excel features, and dashboarding tools such as Power BI and Tableau.
