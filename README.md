@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Denys, and I'm an aspiring data professional. 
+My name is Denys, and I'm an aspiring data professional.
 Feel free to explore my portfolio of data projects [here](https://github.com/NephriteLabs/Portfolio).
 
 Recently, I've been working on improving my coding skills through numerous projects using Python libraries, mostly:
